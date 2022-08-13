@@ -4,8 +4,8 @@
 I am a Junior Full Stack Developer.
 
 🔭  I’m currently working on visokomerie project  
-🌱  I’m currently learning React and Algorithms  
-💬  Ask me about anything related to Javascript/Typescript or NodeJS/React/Express/  
+🌱  I’m currently learning Nest.js and Algorithms  
+💬  Ask me about anything related to React/Typescript or NodeJS/Express/Nest.js  
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
