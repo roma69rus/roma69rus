@@ -1,12 +1,3 @@
-# Hi there 👋
-
-## ✨ About me:
-I am a Junior Full Stack Developer.
-
-🔭  I’m currently working on visokomerie project  
-🌱  I’m currently learning Nest.js and Algorithms  
-💬  Ask me about anything related to React/Typescript or NodeJS/Express/Nest.js  
-
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
